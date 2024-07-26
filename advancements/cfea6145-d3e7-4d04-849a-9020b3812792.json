@@ -1,0 +1,22 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-07-25 22:25:49 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:beach": "2024-07-25 23:11:18 +0200",
+      "minecraft:plains": "2024-07-25 22:25:50 +0200"
+    },
+    "done": false
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-07-25 22:34:57 +0200"
+    },
+    "done": true
+  },
+  "DataVersion": 3953
+}
